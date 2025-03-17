@@ -1,0 +1,106 @@
+Nhap so luong test: 10
+Nhap ma bai: NYGIFT
+Dang bien dich file loi giai.
+Bat dau sinh test
+----------
+Test #1:
+Da sinh xong input. Dang chay file loi giai.
+Da sinh xong output.
+Dang tao thu muc chua test #1.
+Dang sao chep cac file input va output.
+Da sao chep xong.
+Ket thuc qua trinh sinh test #1.
+Thoi gian sinh input: 1 ms.
+Thoi gian chay loi giai: 332 ms.
+-----
+Test #2:
+Da sinh xong input. Dang chay file loi giai.
+Da sinh xong output.
+Dang tao thu muc chua test #2.
+Dang sao chep cac file input va output.
+Da sao chep xong.
+Ket thuc qua trinh sinh test #2.
+Thoi gian sinh input: 0 ms.
+Thoi gian chay loi giai: 17 ms.
+-----
+Test #3:
+Da sinh xong input. Dang chay file loi giai.
+Da sinh xong output.
+Dang tao thu muc chua test #3.
+Dang sao chep cac file input va output.
+Da sao chep xong.
+Ket thuc qua trinh sinh test #3.
+Thoi gian sinh input: 0 ms.
+Thoi gian chay loi giai: 16 ms.
+-----
+Test #4:
+Da sinh xong input. Dang chay file loi giai.
+Da sinh xong output.
+Dang tao thu muc chua test #4.
+Dang sao chep cac file input va output.
+Da sao chep xong.
+Ket thuc qua trinh sinh test #4.
+Thoi gian sinh input: 0 ms.
+Thoi gian chay loi giai: 18 ms.
+-----
+Test #5:
+Da sinh xong input. Dang chay file loi giai.
+Da sinh xong output.
+Dang tao thu muc chua test #5.
+Dang sao chep cac file input va output.
+Da sao chep xong.
+Ket thuc qua trinh sinh test #5.
+Thoi gian sinh input: 1 ms.
+Thoi gian chay loi giai: 26 ms.
+-----
+Test #6:
+Da sinh xong input. Dang chay file loi giai.
+Da sinh xong output.
+Dang tao thu muc chua test #6.
+Dang sao chep cac file input va output.
+Da sao chep xong.
+Ket thuc qua trinh sinh test #6.
+Thoi gian sinh input: 0 ms.
+Thoi gian chay loi giai: 22 ms.
+-----
+Test #7:
+Da sinh xong input. Dang chay file loi giai.
+Da sinh xong output.
+Dang tao thu muc chua test #7.
+Dang sao chep cac file input va output.
+Da sao chep xong.
+Ket thuc qua trinh sinh test #7.
+Thoi gian sinh input: 0 ms.
+Thoi gian chay loi giai: 15 ms.
+-----
+Test #8:
+Da sinh xong input. Dang chay file loi giai.
+Da sinh xong output.
+Dang tao thu muc chua test #8.
+Dang sao chep cac file input va output.
+Da sao chep xong.
+Ket thuc qua trinh sinh test #8.
+Thoi gian sinh input: 0 ms.
+Thoi gian chay loi giai: 16 ms.
+-----
+Test #9:
+Da sinh xong input. Dang chay file loi giai.
+Da sinh xong output.
+Dang tao thu muc chua test #9.
+Dang sao chep cac file input va output.
+Da sao chep xong.
+Ket thuc qua trinh sinh test #9.
+Thoi gian sinh input: 32 ms.
+Thoi gian chay loi giai: 90 ms.
+-----
+Test #10:
+Da sinh xong input. Dang chay file loi giai.
+Da sinh xong output.
+Dang tao thu muc chua test #10.
+Dang sao chep cac file input va output.
+Da sao chep xong.
+Ket thuc qua trinh sinh test #10.
+Thoi gian sinh input: 8 ms.
+Thoi gian chay loi giai: 30 ms.
+-----
+Ket thuc chuong trinh.
